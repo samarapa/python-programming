@@ -1,0 +1,5 @@
+lst=raw_input("Enter the list of Numbers")
+lst_val=lst.split(",")
+tup_val=tuple(lst_val)
+print(lst_val)
+print(tup_val)
