@@ -1,0 +1,3 @@
+s='khifauhewjbrfkjhiuayoiequpowscm,nbvaugiruqupoiewipowqnckjdsagfyuQWOIUYEWOIPRUFJHGJqjkghkjhaoidfnakmsdvfuh2gwqoeiuoifdansl;kfbvdwarewiuryfdsnvna'
+
+print(s.count("i"))
